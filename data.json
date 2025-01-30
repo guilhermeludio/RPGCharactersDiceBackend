@@ -1,27 +1,27 @@
 {
   "galdrin": {
-    "luck": 4,
-    "bad_luck": 1,
-    "counter": 38
+    "luck": 0,
+    "bad_luck": 0,
+    "counter": 0
   },
   "drow": {
-    "luck": 13,
-    "bad_luck": 5,
-    "counter": 20
+    "luck": 0,
+    "bad_luck": 0,
+    "counter": 0
   },
   "sirena": {
-    "luck": 2,
-    "bad_luck": 1,
-    "counter": 5
+    "luck": 0,
+    "bad_luck": 0,
+    "counter": 0
   },
   "lauro": {
-    "luck": 3,
+    "luck": 0,
     "bad_luck": 0,
-    "counter": 5
+    "counter": 0
   },
   "mestre": {
-    "luck": 6,
+    "luck": 0,
     "bad_luck": 0,
-    "counter": 8
+    "counter": 0
   }
 }
